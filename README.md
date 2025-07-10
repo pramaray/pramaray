@@ -1,34 +1,50 @@
-# 👋 Hi, I’m Prama Ray
+<h1 align="center">Hi 👋, I'm Prama Ray</h1>
+<h3 align="center">3rd-year IT Student @ Jadavpur University | Developer | Designer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🌱+2nd-year+IT+student+%40+Jadavpur+University;👩‍💻+Passionate+about+coding+and+design;🚀+Always+exploring+new+tech+and+UI+trends)](https://git.io/typing-svg)
-
----
-
-💻 **Tech Stack**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-
-🎨 **Also Into**  
-Minimalistic UI design, typography, and graphic design with Figma & Photoshop.  
-
-📫 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramaray)  
-[![Gmail](https://img.shields.io/badge/-prama.email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pramaray300306@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prama.email@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-📊 **GitHub Stats**  
-
-![Prama's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+### 🧑‍💻 About Me
+🌱 I’m a 3rd-year IT student passionate about **coding**, **UI/UX design**, and building **clean, scalable applications**.  
+💻 Currently deep diving into the **MERN stack** and exploring **AI-driven solutions** for real-world problems.  
+🎨 I enjoy minimalism, typography, and crafting intuitive user experiences.  
 
 ---
 
-✨ *“Code is like art—keep it simple and beautiful.”*
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,mongodb,git,figma,photoshop" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prama.email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Code.+Design.+Innovate.;Keep+it+clean+and+minimal.;Let’s+build+something+amazing!" alt="Typing SVG" />
+</p>
+
